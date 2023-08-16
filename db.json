@@ -169,126 +169,144 @@
       "title": "Camisetas",
       "category": "shirts",
       "path": "Images/Desktop/Categorias/Categoria-camiseta.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 2,
       "title": "Bolsas",
       "category": "woman bags",
       "path": "Images/Desktop/Categorias/Categoria Bolsa.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 3,
       "title": "Calçados",
       "category": "shoes",
       "path": "Images/Desktop/Categorias/Categoria Calçados.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 4,
       "title": "Calças",
       "category": "pants",
       "path": "Images/Desktop/Categorias/Categoria calça.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 5,
       "title": "Casacos",
       "category": "jackets",
       "path": "Images/Desktop/Categorias/Categoria casacos.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 6,
       "title": "Óculos",
       "category": "glasses",
       "path": "Images/Desktop/Categorias/Categoria óculos.png",
-      "screen": "desktop"
+      "screen": "desktop",
+      "selected": false 
     },
     {
       "id": 7,
       "title": "Camisetas",
       "category": "shirts",
       "path": "Images/Tablet/Categorias/Categoria camiseta.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 8,
       "title": "Bolsas",
       "category": "woman bags",
       "path": "Images/Tablet/Categorias/Categoria Bolsa.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 9,
       "title": "Calçados",
       "category": "shoes",
       "path": "Images/Tablet/Categorias/Categoria calçados.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 10,
       "title": "Calças",
       "category": "pants",
       "path": "Images/Tablet/Categorias/Categoria calça.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 11,
       "title": "Casacos",
       "category": "jackets",
       "path": "Images/Tablet/Categorias/Categoria casacos.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 12,
       "title": "Óculos",
       "category": "glasses",
       "path": "Images/Tablet/Categorias/Categoria óculos.png",
-      "screen": "tablet"
+      "screen": "tablet",
+      "selected": false 
     },
     {
       "id": 13,
       "title": "Camisetas",
       "category": "shirts",
       "path": "Images/Mobile/Categorias/Categoria camiseta.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     },
     {
       "id": 14,
       "title": "Bolsas",
       "category": "woman bags",
       "path": "Images/Mobile/Categorias/Categoria Bolsa.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     },
     {
       "id": 15,
       "title": "Calçados",
       "category": "shoes",
       "path": "Images/Mobile/Categorias/Categoria calçados.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     },
     {
       "id": 16,
       "title": "Calças",
       "category": "pants",
       "path": "Images/Mobile/Categorias/Categoria calça.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     },
     {
       "id": 17,
       "title": "Casacos",
       "category": "jackets",
       "path": "Images/Mobile/Categorias/Categoria Casacos.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     },
     {
       "id": 18,
       "title": "Óculos",
       "category": "glasses",
       "path": "Images/Mobile/Categorias/Categoria óculos.png",
-      "screen": "mobile"
+      "screen": "mobile",
+      "selected": false 
     }
   ]
 }
